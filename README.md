@@ -33,3 +33,6 @@ The software is release under a BSD 3-clause license
 
 https://github.com/bugst/go-serial/blob/v1/LICENSE
 
+## Citation
+
+### v1.0: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352416.svg)](https://doi.org/10.5281/zenodo.3352416)
